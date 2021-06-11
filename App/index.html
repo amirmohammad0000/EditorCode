@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Editor</title>
+    <!-- Start Cdn And Styles -->
+    <!-- Start Bootstrap Css -->
+    <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet"> -->
+    <!-- End Bootstrap Css -->
+    <!-- Start Font Awesome -->
+    <!-- <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"> -->
+    <!-- End Font Awesome -->
+    <!-- Start Cdn Animate -->
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"> -->
+    <!-- End Cdn Animate -->
+    <!-- Start Custom Css -->
+    <link rel="stylesheet" href="assets/Custom-css-js/style.css">
+    <!-- End Custom Css -->
+    <!-- End Cdn And Styles -->
+</head>
+<body>
+
+<section id="app" onkeyup="GetLineColumnNumber()" onmousemove="GetLineColumnNumber()" onscroll="GetLineColumnNumber()">
+    <section>
+        <textarea id="editor" spellcheck="false"></textarea>
+    </section>
+
+    <section id="status_bar">
+        <div class="div_status_bar">
+            <div>File Name :</div>
+            <div id="fileName">Untitled</div>
+        </div>
+
+        <div class="div_status_bar">
+            <div>Mode :</div>
+            <div id="modeFile">txt</div>
+        </div>
+
+        <div class="div_status_bar">
+            <div>Line / Column :</div>
+            <div id="lineColumn"></div>
+        </div>
+    </section>
+</section>
+
+</body>
+<section>
+    <!-- Start Cdn And Script -->
+    <!-- Start Bootstrap Js -->
+    <!--    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js"></script>-->
+    <!--    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.6.0/dist/umd/popper.min.js"></script>-->
+    <!--    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.min.js"></script>-->
+    <!-- End Bootstrap Js -->
+    <!-- Start Vue Js -->
+    <!--   <script src="https://unpkg.com/vue@3.0.5/dist/vue.global.js"></script>-->
+    <!--   <script src="https://cdn.jsdelivr.net/npm/vue@2"></script>-->
+    <!-- End Vue Js -->
+    <!-- Start React Js -->
+    <!--   <script crossorigin src="https://unpkg.com/react@17/umd/react.production.min.js"></script>-->
+    <!--   <script crossorigin src="https://unpkg.com/react-dom@17/umd/react-dom.production.min.js"></script>-->
+    <!--   <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>-->
+    <!-- End React Js -->
+    <!-- Start Jquery -->
+    <!--   <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>-->
+    <!-- End Jquery -->
+    <!-- Start Cdn VueX -->
+    <!--   <script src="https://cdnjs.cloudflare.com/ajax/libs/vuex/4.0.0/vuex.cjs.min.js"></script>-->
+    <!-- End Cdn VueX -->
+    <!-- Start Cdn Vue Resource -->
+    <!--   <script src="https://cdn.jsdelivr.net/npm/vue-resource"></script>-->
+    <!-- End Cdn Vue Resource -->
+    <!-- Start Cdn Vue Router -->
+    <!--   <script src="https://unpkg.com/vue-router@3.5.1/dist/vue-router.js"></script>-->
+    <!-- End Cdn Vue Router -->
+    <!-- Start Custom Js -->
+    <script src="Menus/Menus.js"></script>
+    <!-- End Custom Js -->
+    <!-- End Cdn And Script -->
+</section>
+</html>
