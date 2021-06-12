@@ -1,0 +1,13 @@
+#app {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+}
+
+#inputFind {
+    width: 90%;
+    height: 20px;
+    font-size: 15px;
+    outline: 0;
+}
