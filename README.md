@@ -7,6 +7,7 @@
 ![image](https://user-images.githubusercontent.com/74311184/122649744-9d2ebf80-d144-11eb-8121-f39ba3056d7c.png)
 
 bugs: {
+
     Termianl it is not very well,
 
     Folder explorer it is not complete,
