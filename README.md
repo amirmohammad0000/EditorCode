@@ -8,6 +8,6 @@
 
 bugs: {
     Termianl it is not very well,
-    
+
     Folder explorer it is not complete,
 };
