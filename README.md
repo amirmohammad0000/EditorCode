@@ -6,6 +6,6 @@ I wanted to make a program Similar notPad, but now that I have completed it, may
 
 bugs: {
 
-    Termianl it is not very well;
-    Folder explorer it is not complete;
+    Termianl Works But it is not very well;
+    Folder explorer Works it is not complete;
 };
