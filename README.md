@@ -146,7 +146,7 @@ I wanted to make a program Similar notPad, but now that I have completed it, may
 # };
 
 # Image from Page App : {
-![image](https://user-images.githubusercontent.com/74311184/122667085-45d13380-d1c6-11eb-825f-922d7da87ef7.png)
+![image](https://user-images.githubusercontent.com/74311184/123110006-f3f00e00-d450-11eb-886d-f1f7e21c1c6d.png)
 # };
 
 # bugs: {
