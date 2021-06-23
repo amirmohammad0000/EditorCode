@@ -8,7 +8,7 @@ I wanted to make a program Similar notPad, but now that I have completed it, may
     Having 64 themes,
     Ability to support 130 programming languages,
     Having terminal,
-    Having 20 templates ready in different languages,
+    Having 20 templates ready for different languages,
 # };
 
 # Supported programming languages: {
