@@ -6,7 +6,7 @@ I wanted to make a program Similar notPad, but now that I have completed it, may
 
     Ability to complete the code,
     Having 64 themes,
-    Ability to support 130 programming languages,
+    Ability to support 140 programming languages,
     Having terminal,
     Having 20 templates ready for different languages,
 # };
@@ -134,7 +134,7 @@ I wanted to make a program Similar notPad, but now that I have completed it, may
     Velocity,
     Verilog/SystemVerilog,
     VHDL,
-    Vue.js app,
+    Vue.js,
     Web IDL,
     WebAssembly Text Format,
     XML/HTML,
