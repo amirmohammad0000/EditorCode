@@ -7,7 +7,7 @@ I wanted to make a program Similar notPad, but now that I have completed it, may
     Ability to complete the code,
     Having 64 themes,
     Ability to support 130 programming languages,
-    Having a terminal,
+    Having terminal,
     Having 20 templates ready in different languages,
 # };
 
