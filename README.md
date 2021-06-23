@@ -2,14 +2,14 @@
 
 I wanted to make a program Similar notPad, but now that I have completed it, maybe I can say that it is Similar sublimeText. this app is created with electron. I hope it is useful for you.
 
-#Attributes : {
+# Attributes : {
 
 Ability to complete the code,
 Having 64 themes,
 Ability to support 130 programming languages,
 };
 
-#Supported programming languages : {
+# Supported programming languages : {
 
 APL,
 ASN.1,
