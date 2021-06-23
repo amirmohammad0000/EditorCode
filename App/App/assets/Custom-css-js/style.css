@@ -1,0 +1,463 @@
+/***************************************//* Start Style All */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 15px;
+}
+/***************************************//* End Style All */
+
+
+/***************************************//* Start Style App */
+#app {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/***************************************//* End Style App */
+
+
+/***************************************//* Start Style Header Editor */
+#section-header-editor {
+    position: fixed;
+    top: 0;
+    left: 25px;
+    right: 0;
+    height: 30px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    background-color: #44475a;
+    overflow: auto;
+}
+
+#section-header-editor::-webkit-scrollbar {
+    width: 0;
+    height: 5px;
+}
+
+#section-header-editor::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+#section-header-editor::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+#section-header-editor::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+#section-header-editor div {
+    font-family: sans-serif;
+    font-weight: 100;
+    display: inline-flex;
+    align-items: center;
+    color: white;
+    padding: 6px 5px;
+    white-space: nowrap;
+    background-color: #888;
+    transition: all 0.5s;
+    user-select: none;
+    cursor: auto;
+}
+
+#section-header-editor div img {
+    width: 25px;
+}
+
+#section-header-editor div span {
+    padding: 0 10px 0 2px;
+}
+
+#section-header-editor div:hover {
+    background-color: #555;
+}
+
+#section-header-editor div i {
+    font-family: "Font Awesome 5 Pro";
+    cursor: pointer;
+    transition: all 0.5s;
+    font-size: 12px;
+    padding: 2px 5px;
+    border-radius: 100px;
+    font-weight: 100;
+    transform: rotate(38deg);
+}
+
+#section-header-editor div i:hover {
+    background-color: grey;
+}
+
+#section-header-editor div i:before {
+    content: "\f00d";
+}
+/***************************************//* End Style Header Editor */
+
+
+/***************************************//* Start Style Scroll */
+::-webkit-scrollbar {
+    width: 15px;
+    height: 15px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+/***************************************//* End Style Scroll */
+
+
+/***************************************//* Start Style Search */
+#search-box {
+    font-family: sans-serif;
+    font-weight: 100;
+    position: fixed;
+    top: -100px;
+    left: 25px;
+    width: 100%;
+    height: 40px;
+    background-color: #282a36;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.div-input-search {
+    display: flex;
+}
+
+.input-search-click {
+    position: absolute;
+    top: 10px;
+    left: 470px;
+}
+
+#search-box i {
+    color: white;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+
+#search-box i:hover {
+    color: #787878;
+}
+
+.input-search {
+    width: 400px;
+    height: 40px;
+    outline: none;
+    padding: 5px;
+    margin: 5px 5px 5px 100px;
+    color: white;
+    background-color: transparent;
+    font-size: 18px;
+}
+
+.input-replace {
+    width: 400px;
+    height: 40px;
+    outline: none;
+    padding: 5px;
+    color: white;
+    background-color: transparent;
+    font-size: 18px;
+}
+
+.div-img-search-box {
+    position: absolute;
+    top: 4px;
+    right: 390px;
+}
+
+.icon-replace {
+    width: 30px;
+    margin: 0 2px;
+    cursor: pointer;
+}
+
+.icon-replace-all {
+    width: 30px;
+    margin: 0 2px;
+    cursor: pointer;
+}
+
+.div-search-close i {
+    margin-right: 50px;
+    font-size: 25px;
+    font-weight: 400;
+}
+/***************************************//* End Style Search */
+
+
+/***************************************//* Start Style Section Project */
+.status_bar-left {
+    font-family: sans-serif;
+    font-weight: 100;
+    position: fixed;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 25px;
+    display: flex;
+    background-color: #44475a;
+    color: #fff;
+    user-select: none;
+}
+
+.div-icon {
+    margin: -5px 0 0 -5px;
+}
+
+.div-container-icon {
+    width: 25px;
+    height: 80px;
+    transition: all 0.5s;
+    padding: 10px 0 0 10px;
+}
+
+.div-container-icon:hover {
+    background-color: #353849;
+}
+
+.status_bar-left p {
+    transform: rotate(-90deg);
+    transform-origin: bottom;
+    margin: 0 0 15px 4px;
+    padding: 20px 0 0 0;
+}
+
+.sect-body-project ul li {
+    list-style-type: none;
+    cursor: pointer;
+    font-size: 15px;
+    padding: 2px;
+}
+
+.sect-body-project ul li:hover {
+    background-color: #575b70;
+}
+
+.sect-body-project ul li i {
+    margin: 0 5px;
+    font-size: 12px;
+    font-family: "Font Awesome 5 Pro";
+    font-weight: 900;
+}
+
+.sect-body-project ul li i::before {
+    content: "\f054";
+}
+
+#sect-project {
+    font-family: sans-serif;
+    font-weight: 100;
+    position: fixed;
+    width: 250px;
+    top: 0;
+    left: -300px;
+    bottom: 35px;
+    background-color: #44475a;
+    color: #fff;
+    user-select: none;
+    overflow: auto;
+}
+
+.header-sect-project {
+    width: 100%;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    user-select: none;
+}
+
+#sect-open-dialog {
+    cursor: pointer;
+    transition: all 0.5s;
+}
+
+#sect-open-dialog:hover {
+    color: #888;
+}
+
+#close-sect-project {
+    cursor: pointer;
+}
+
+#close-sect-project:hover {
+    color: #888;
+}
+
+.arrow-icon-sect-body-project {
+    transition: all 0.5s;
+}
+
+.arrow-icon-sect-body-project:hover {
+    color: #888;
+}
+/***************************************//* End Style Section Project */
+
+
+/***************************************//* Start Style Editor */
+#editor {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 2px;
+}
+/***************************************//* End Style Editor */
+
+
+/***************************************//* Start Style CodeMirror */
+.CodeMirror {
+    position: fixed;
+    top: 30px;
+    left: 25px;
+    right: 0;
+    height: calc(100% - 65px);
+}
+
+.CodeMirror-foldmarker {
+    color: gray;
+    text-shadow: grey 0 0;
+    font-size: 18px;
+}
+
+.CodeMirror-foldgutter-open {
+    font-family: "Font Awesome 5 Pro";
+    font-weight: 900;
+    font-size: 10px;
+}
+
+.CodeMirror-foldgutter-folded {
+    font-family: "Font Awesome 5 Pro";
+    font-weight: 900;
+    font-size: 10px;
+}
+
+.CodeMirror-foldgutter-open:after {
+    content: "\f068";
+}
+
+.CodeMirror-foldgutter-folded:after {
+    content: "\f067";
+}
+/***************************************//* Start Style CodeMirror */
+
+
+/***************************************//* Start Style Status Bar And Terminal */
+.div_terminal {
+    padding: 8px 20px;
+    cursor: pointer;
+    background-color: #44475a;
+    transition: 1s all;
+}
+
+.div_terminal:hover {
+    background-color: #707070;
+}
+
+.div_status_bar {
+    display: flex;
+}
+
+#status_bar {
+    font-family: sans-serif;
+    font-weight: 100;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 35px;
+    user-select: none;
+    background-color: #44475a;
+    color: #eee;
+}
+
+.lock-status-bar-lock {
+    display: none;
+    cursor: pointer;
+}
+
+.lock-status-bar-open {
+    cursor: pointer;
+}
+
+#status_bar_terminal {
+    font-family: sans-serif;
+    font-weight: 100;
+    display: none;
+    justify-content: space-between;
+    cursor: ns-resize;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 235px;
+    width: 100%;
+    height: 30px;
+    background-color: #44475a;
+    padding: 4px 0;
+    font-size: 20px;
+    user-select: none;
+    color: #fff;
+}
+
+#status_bar_terminal i {
+    cursor: pointer;
+    padding: 0 10px;
+    font-weight: 500;
+    font-size: 24px;
+}
+
+#terminal {
+    display: none;
+    position: fixed;
+    left: 0;
+    bottom: 35px;
+    right: 0;
+    height: 200px;
+    padding: 5px 0 5px 5px;
+    width: 100%;
+    outline: none;
+    resize: none;
+    background-color: #696969;
+    border: none;
+    color: #fff;
+    cursor: auto;
+}
+
+.sect-set-mode-file {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: 35px;
+}
+
+#select-mode-file {
+    width: 100%;
+    height: 100%;
+    outline: none;
+    background-color: #44475a;
+    color: white;
+    transition: all 0.5s;
+}
+
+#select-mode-file:hover {
+    background-color: #707070;
+}
+/***************************************//* End Style Status Bar And Terminal */

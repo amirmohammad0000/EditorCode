@@ -1,0 +1,24 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App/main.js",
+  "scripts": {
+    "start": "electron .",
+    "build:win": "electron-packager ./ Editor --platform=win32 --asar",
+    "build:mac": "electron-packager ./ Editor --platform=darwin --asar",
+    "build:linux": "electron-packager ./ Editor --platform=linux --asar",
+    "build:all": "electron-packager ./ Editor --platform=all --asar"
+  },
+  "author": "Amir Mohammad",
+  "license": "ISC",
+  "dependencies": {
+    "auto-launch": "^5.0.5",
+    "electron": "^13.1.2",
+    "electron-packager": "^15.2.0",
+    "electron-window-state": "^5.0.3",
+    "knex": "^0.95.6",
+    "node-powershell": "^4.0.0",
+    "sqlite3": "^5.0.2"
+  }
+}
