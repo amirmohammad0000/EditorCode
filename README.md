@@ -152,6 +152,6 @@ I wanted to make a program Similar notPad, but now that I have completed it, may
 
 # bugs: {
 
-    Termianl Works But it is not very well;
+    Termianl Works But it is not very well If you run a command like npm init, it will have a problem, but a command like npm install or npm start will run without any problems;
     Folder explorer Works it is not complete;
 # };
