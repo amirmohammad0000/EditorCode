@@ -146,8 +146,10 @@ I wanted to make a program Similar notPad, but now that I have completed it, may
 # };
 
 # Image from Page App : {
-![image](https://user-images.githubusercontent.com/74311184/123682555-63566b00-d860-11eb-8ccf-c1ed1c68161e.png)
-![image](https://user-images.githubusercontent.com/74311184/123682601-6d786980-d860-11eb-9e57-ca5acbd68bb0.png)
+![image](https://user-images.githubusercontent.com/74311184/123818880-9820fb80-d90e-11eb-88d7-68ff96d27ba2.png)
+![image](https://user-images.githubusercontent.com/74311184/123818981-a96a0800-d90e-11eb-8aac-d3aa944afd57.png)
+![image](https://user-images.githubusercontent.com/74311184/123818945-a2db9080-d90e-11eb-81b4-bdb58856bb68.png)
+![image](https://user-images.githubusercontent.com/74311184/123819182-d3bbc580-d90e-11eb-82b3-9c7d0982a766.png)
 # };
 
 # bugs: {
