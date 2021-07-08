@@ -153,12 +153,6 @@ I wanted to make a program Similar notPad, but now that I have completed it, may
 ![image](https://user-images.githubusercontent.com/74311184/124797990-21b47700-df68-11eb-9baa-d267252f3002.png)
 ![image](https://user-images.githubusercontent.com/74311184/124922461-c5586280-e00e-11eb-9b8f-4427f8d11114.png)
 ![image](https://user-images.githubusercontent.com/74311184/124922468-c5f0f900-e00e-11eb-9659-06f785c3200f.png)
-![image](https://user-images.githubusercontent.com/74311184/124922472-c6898f80-e00e-11eb-97c3-03c0c731436e.png)
-![image](https://user-images.githubusercontent.com/74311184/124922466-c5586280-e00e-11eb-8a6f-a100cf5e92bf.png)
-![image](https://user-images.githubusercontent.com/74311184/124922474-c6898f80-e00e-11eb-8ee8-dce58fffd53a.png)
-![image](https://user-images.githubusercontent.com/74311184/124922490-cab5ad00-e00e-11eb-81da-2d43581d313b.png)
-![image](https://user-images.githubusercontent.com/74311184/124922548-d86b3280-e00e-11eb-96b0-f17ba9bfe4cf.png)
-![image](https://user-images.githubusercontent.com/74311184/124922555-d99c5f80-e00e-11eb-85f4-3a038ec86f9e.png)
 # };
 
 # bugs: {
