@@ -146,11 +146,13 @@ I wanted to make a program Similar notPad, but now that I have completed it, may
 # };
 
 # Image from Page App : {
-![image](https://user-images.githubusercontent.com/74311184/124797989-21b47700-df68-11eb-91ee-b1eeb4c789c8.png)
-![image](https://user-images.githubusercontent.com/74311184/124797991-21b47700-df68-11eb-9217-0e74f1f36b16.png)
-![image](https://user-images.githubusercontent.com/74311184/124797988-211be080-df68-11eb-8b05-6b2ec9d8c27a.png)
-![image](https://user-images.githubusercontent.com/74311184/124797995-224d0d80-df68-11eb-9727-9f16736acf3b.png)
-![image](https://user-images.githubusercontent.com/74311184/124797990-21b47700-df68-11eb-9baa-d267252f3002.png)
+![image](https://user-images.githubusercontent.com/74311184/125201328-deb61480-e283-11eb-869b-ad3184209712.png)
+![image](https://user-images.githubusercontent.com/74311184/125201326-de1d7e00-e283-11eb-93da-8944a6a66d5c.png)
+![image](https://user-images.githubusercontent.com/74311184/125201331-deb61480-e283-11eb-807f-09042dc342b0.png)
+![image](https://user-images.githubusercontent.com/74311184/125201404-410f1500-e284-11eb-9880-7da0670de3e1.png)
+![image](https://user-images.githubusercontent.com/74311184/125201409-42404200-e284-11eb-9615-add231168153.png)
+![image](https://user-images.githubusercontent.com/74311184/125201408-41a7ab80-e284-11eb-9967-8f5d31a07db4.png)
+![image](https://user-images.githubusercontent.com/74311184/125201406-410f1500-e284-11eb-8a84-739247e40ca8.png)
 # };
 
 # bugs: {
