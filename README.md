@@ -5,7 +5,7 @@ I wanted to make a program Similar notPad, but now that I have completed it, may
 # Attributes: {
 
     Having 30 commonly used commands in the application terminal,
-    Ability to find package.json file in the current browser path and add commands inside the scripts section for easier use of the command in the terminal,
+    Ability to find package.json file in the current browser path and add commands inside the scripts section for easier use of the command in the terminal Similar to jetbrains programs,
     Ability to complete the code,
     Having 64 themes,
     Ability to support 140 programming languages,
