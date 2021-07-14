@@ -5,6 +5,7 @@ I wanted to make a program Similar notPad, but now that I have completed it, may
 # Attributes: {
 
     Having 30 commonly used commands in the application terminal,
+    Having 10 different languages to make it easier for users to work,
     Ability to find package.json file in the current browser path and add commands inside the scripts section for easier use of the command in the terminal Similar to jetbrains programs,
     Ability to complete the code,
     Having 64 themes,
@@ -148,13 +149,16 @@ I wanted to make a program Similar notPad, but now that I have completed it, may
 # };
 
 # Image from Page App : {
-![image](https://user-images.githubusercontent.com/74311184/125201328-deb61480-e283-11eb-869b-ad3184209712.png)
-![image](https://user-images.githubusercontent.com/74311184/125201326-de1d7e00-e283-11eb-93da-8944a6a66d5c.png)
-![image](https://user-images.githubusercontent.com/74311184/125201331-deb61480-e283-11eb-807f-09042dc342b0.png)
-![image](https://user-images.githubusercontent.com/74311184/125201404-410f1500-e284-11eb-9880-7da0670de3e1.png)
-![image](https://user-images.githubusercontent.com/74311184/125275630-8420c500-e324-11eb-8bdf-fb2545e7ac5c.png)
-![image](https://user-images.githubusercontent.com/74311184/125201408-41a7ab80-e284-11eb-9967-8f5d31a07db4.png)
-![image](https://user-images.githubusercontent.com/74311184/125201406-410f1500-e284-11eb-8a84-739247e40ca8.png)
+![image](https://user-images.githubusercontent.com/74311184/125609599-d2827186-8db9-464e-b99d-c0f8066af54b.png)
+![image](https://user-images.githubusercontent.com/74311184/125609598-b994da1b-db06-48fa-b6c8-02ea983330da.png)
+![image](https://user-images.githubusercontent.com/74311184/125609590-7524417a-0323-4bf2-97e8-5a3096a71850.png)
+![image](https://user-images.githubusercontent.com/74311184/125609593-fd216a80-6c29-4a4e-ba23-5a217873d62f.png)
+![image](https://user-images.githubusercontent.com/74311184/125609732-e07fe436-390d-43c5-88bf-b533e3e4c5a7.png)
+![image](https://user-images.githubusercontent.com/74311184/125609731-a9c985c4-323e-4776-a8bc-052d1de98941.png)
+![image](https://user-images.githubusercontent.com/74311184/125609729-088a5dd6-5dec-4d01-8f3f-533d44b4b10c.png)
+![image](https://user-images.githubusercontent.com/74311184/125610018-bb9ee8c3-c215-4f9b-9ff3-071aa949066d.png)
+![image](https://user-images.githubusercontent.com/74311184/125610023-9a65653f-0a01-4f9f-b001-7862d34f8c7a.png)
+![image](https://user-images.githubusercontent.com/74311184/125610020-56b5b375-9423-4350-b4be-d6fcb29fd6c2.png)
 # };
 
 # bugs: {
