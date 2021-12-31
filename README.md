@@ -1,4 +1,4 @@
-# TextEditor_With_Electron
+# TextEditor With Electron;
 
 I wanted to make a program Similar notPad, but now that I have completed it, maybe I can say that it is Similar sublimeText. this app is created with electron. I hope it is useful for you.
 
